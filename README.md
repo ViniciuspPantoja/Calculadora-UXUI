@@ -1,1 +1,1 @@
-<img src="img/Captura%20de%20Tela%202025-11-25%20às%2021.10.00.png" alt="Screenshot da Calculadora" style="max-width: 600px;"/>
+<img src="img/Captura de Tela 2025-11-25 às 21.10.00.png" alt="Screenshot da Calculadora" style="max-width: 600px;"/>

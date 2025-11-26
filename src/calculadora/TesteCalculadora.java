@@ -1,7 +1,7 @@
 package calculadora;
 
 /**
- * <h1>Teste da Classe Calculadora</h1>
+ * <h2>Teste da Classe Calculadora</h2>
  * 
  * <p>Classe de demonstração que testa as funcionalidades da classe {@link Calculadora}.
  * Este programa executa uma série de testes automatizados para validar o comportamento
@@ -15,19 +15,19 @@ package calculadora;
  * </ul>
  *
  * <p><b>Saída Esperada:</b></p>
- * <pre>
+ * <pre>{@code
  * 2 + 3 = 5
  * 10 - 4 = 6
  * 3 * 5 = 15
  * 20 / 4 = 5
  * Erro capturado: Erro: divisão por zero!
  * Erro capturado: Operação inválida: x
- * </pre>
+ * }</pre>
  *
  * @author Vinícius Pantoja
  * @version 1.0
  * @see Calculadora
- * @since 2023-11-25
+ * @since 2025-11-25
  */
 public class TesteCalculadora {
 

@@ -1,7 +1,7 @@
 package calculadora;
 
 /**
- * <h1>Calculadora Aritmética</h1>
+ * <h2>Calculadora Aritmética</h2>
  * 
  * <p>Classe que implementa uma calculadora com operações aritméticas básicas.
  * Desenvolvida como parte de um projeto educacional para demonstração de boas práticas
@@ -150,12 +150,13 @@ public class Calculadora {
      * a execução de qualquer operação suportada através de uma única chamada.
      *
      * <p><b>Operações Suportadas:</b>
-     * <table border="1">
-     *   <tr><th>Operação</th><th>Símbolo</th><th>Descrição</th></tr>
-     *   <tr><td>Adição</td><td>+</td><td>{@link #somar(int, int)}</td></tr>
-     *   <tr><td>Subtração</td><td>-</td><td>{@link #subtrair(int, int)}</td></tr>
-     *   <tr><td>Multiplicação</td><td>*</td><td>{@link #multiplicar(int, int)}</td></tr>
-     *   <tr><td>Divisão</td><td>/</td><td>{@link #dividir(int, int)}</td></tr>
+     * <table class="striped">
+     * <caption>Operações Suportadas</caption>
+     * <tr><th>Operação</th><th>Símbolo</th><th>Descrição</th></tr>
+     * <tr><td>Adição</td><td>+</td><td>{@link #somar(int, int)}</td></tr>
+     * <tr><td>Subtração</td><td>-</td><td>{@link #subtrair(int, int)}</td></tr>
+     * <tr><td>Multiplicação</td><td>*</td><td>{@link #multiplicar(int, int)}</td></tr>
+     * <tr><td>Divisão</td><td>/</td><td>{@link #dividir(int, int)}</td></tr>
      * </table>
      *
      * <p><b>Exemplo de Uso:</b>

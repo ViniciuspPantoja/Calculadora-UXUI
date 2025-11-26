@@ -1,1 +1,1 @@
-<img src="![Captura de Tela 2025-11-25 às 20.29.08.png](../../Desktop/Captura%20de%20Tela%202025-11-25%20%C3%A0s%2020.29.08.png)" alt="Screenshot da Calculadora" style="max-width: 600px;"/>
+<img src="img/Captura de Tela 2025-11-25 às 20.29.08.png" alt="Screenshot da Calculadora" style="max-width: 600px;"/>
